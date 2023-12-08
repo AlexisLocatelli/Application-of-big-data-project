@@ -1,0 +1,24 @@
+{
+  "name": "application-of-big-data",
+  "version": "1.0.0",
+  "description": "REST API for elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisLocatelli/Application-of-big-data-project.git"
+  },
+  "author": "Alexis Locatelli / Briac Marchandise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisLocatelli/Application-of-big-data-project/issues"
+  },
+  "homepage": "https://github.com/AlexisLocatelli/Application-of-big-data-project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2",
+    "morgan": "^1.10.0"
+  }
+}
